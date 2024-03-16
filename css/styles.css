@@ -22,19 +22,11 @@ ul {
         color: #2e2f42;
 }
 .studio-n:hover{
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
+   
         color: #404bbf;
 }
-.studio-n:active {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
+.studio-n:focus {
+ 
         color: #404bbf;
 }
 .portfolio-n {
@@ -46,13 +38,12 @@ ul {
         color: #2e2f42;
 }
 .portfolio-n:hover {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
+   
         color: #404bbf;
         text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.portfolio-n:focus{
+    color: #404bbf;
 }
 .contacts-n {
     font-family: "Roboto", sans-serif;
@@ -63,12 +54,10 @@ ul {
         color: #2e2f42;
 }
 .contacts-n:hover {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
         color: #404bbf;
+}
+.contacts-n:focus{
+    color: #404bbf;
 }
 
 .mailto {
@@ -140,20 +129,12 @@ a:hover{
     
 }
 
-.portfolio-n:hover {
-    font-family: 'Roboto';
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #404BBF;
-        text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-}
+
 
 
 h1 {
     font-family: 'Roboto';
-     weight: 'Bold' ;
+     font-weight: 'Bold' ;
     font-size: 56px ;
     letter-spacing: 2% ;
     Line-Height: 60px;
