@@ -139,8 +139,11 @@ a:hover{
     font-family: 'Roboto';
      font-weight: 'Bold' ;
     font-size: 56px ;
-    letter-spacing: 2% ;
+    letter-spacing: 0.02em ;
     Line-Height: 60px;
+    line-height: 1.07;
+    text-align: center;
+    color: #ffffff;
     }
 
 .button{
@@ -150,8 +153,9 @@ a:hover{
         height: 56px;
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4D5AE5;
-        letter-spacing: 0.04em
-        cursor:pointer;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+        line-height: 1.5;
        }
 .but-name{
     font-family: 'Roboto';
@@ -160,6 +164,7 @@ a:hover{
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #FFFFFF;
+       
 }
 
 .button:hover{
