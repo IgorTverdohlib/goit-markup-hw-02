@@ -1,7 +1,7 @@
 body {
-    font-family: roboto;
+    font-family:"Roboto",sans-serif;
     color: #434455;
-    background-color: #FCFCFC;
+    background-color: #FFFFFF;
     font-family: 'Raleway' , 'Roboto', sans-serif;
 }
 a {
@@ -142,7 +142,7 @@ h1 {
 
 .button{
     border-radius: 4px;
-        padding: 16px 32px;
+       
         width: 169px;
         height: 56px;
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -161,8 +161,7 @@ h1 {
 .button:hover{
     border-radius: 4px;
         padding: 16px 32px;
-        width: 169px;
-        height: 56px;
+        
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
             background: #404BBF;
 }
