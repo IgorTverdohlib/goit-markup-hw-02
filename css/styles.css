@@ -147,6 +147,7 @@ a:hover{
     }
 
 .button{
+    font-family: "Roboto", sans-serif;
     border-radius: 4px;
     color: #ffffff;
     font-weight: 500;
@@ -225,7 +226,7 @@ h2{
         color: #434455;
 }
 .our-portfolio{
-    background-color: #F4F4FD;
+    background-color: #F4F4FD
 }
 .our-portfolio h2{
     font-family: "Roboto", sans-serif;
@@ -236,9 +237,11 @@ h2{
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
+        text-align: center;
+        
        
 }
-.our-portfolio h3{
+.aaa h3{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -247,7 +250,7 @@ h2{
     
         color: #2e2f42;
 }
-.our-portfolio p{
+.aaa p{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
