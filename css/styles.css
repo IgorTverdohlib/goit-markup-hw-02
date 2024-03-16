@@ -128,11 +128,14 @@ a:hover{
     color: #404BBF;
     
 }
+.one {
+    background-color: #2e2f42;
+}
 
 
 
 
-h1 {
+.h1 {
     font-family: 'Roboto';
      font-weight: 'Bold' ;
     font-size: 56px ;
@@ -142,18 +145,19 @@ h1 {
 
 .button{
     border-radius: 4px;
-       
+    color: #ffffff;
         width: 169px;
         height: 56px;
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4D5AE5;
+        letter-spacing: 0.04em
         cursor:pointer;
        }
 .but-name{
     font-family: 'Roboto';
         font-weight: 500;
         font-size: 16px;
-        line-height: 150%;
+        line-height: 1.5;
         letter-spacing: 0.04em;
         color: #FFFFFF;
 }
@@ -165,6 +169,9 @@ h1 {
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
             background: #404BBF;
 }
+.button:focus{
+    background-color: #404BBF;
+}
 h2{
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -173,6 +180,9 @@ h2{
         letter-spacing: 0.02em;
         
         color: #2e2f42;
+}
+.advant{
+    background-color: #F4F4FD
 }
 .advant h3{
     font-family: "Roboto", sans-serif;
