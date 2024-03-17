@@ -40,7 +40,7 @@ ul {
 .portfolio-n:hover {
    
         color: #404bbf;
-        text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+        
 }
 .portfolio-n:focus{
     color: #404bbf;
@@ -287,3 +287,4 @@ h2{
         text-transform: uppercase;
         color: #4d5ae5;
 }
+
