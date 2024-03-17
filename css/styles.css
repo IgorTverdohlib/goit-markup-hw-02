@@ -49,20 +49,7 @@ ul {
 .mailto:hover{
     color: #404BBF;
 }
-.tel{
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
-.tel:focus{
-color: #404BBF;
-}
-.tel:hover{
-    color: #404BBF;
-}
+
 
 
 .header{
@@ -77,15 +64,7 @@ color: #404BBF;
    
 }
 
-.web {
-font-family: 'Roboto';
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;
-}
+
 .studio {
     font-family: 'Roboto';
         font-weight: 700;
