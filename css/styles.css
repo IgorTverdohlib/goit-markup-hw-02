@@ -2,7 +2,7 @@ body {
     font-family:"Roboto",sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    font-family: 'Raleway' , 'Roboto', sans-serif;
+    
 }
 a {
     text-decoration: none;
@@ -148,12 +148,12 @@ a:hover{
 
 .button{
     font-family: "Roboto", sans-serif;
-    border-radius: 4px;
+    
     color: #ffffff;
     font-weight: 500;
         width: 169px;
         height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        
         background: #4D5AE5;
         letter-spacing: 0.04em;
         cursor: pointer;
@@ -171,9 +171,9 @@ a:hover{
 
 .button:hover{
     border-radius: 4px;
-        padding: 16px 32px;
+       
         
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        
             background: #404BBF;
 }
 .button:focus{
