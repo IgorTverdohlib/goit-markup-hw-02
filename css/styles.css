@@ -29,36 +29,11 @@ ul {
  
         color: #404bbf;
 }
-.portfolio-n {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
-.portfolio-n:hover {
-   
-        color: #404bbf;
-        
-}
-.portfolio-n:focus{
-    color: #404bbf;
-}
-.contacts-n {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
-.contacts-n:hover {
-        color: #404bbf;
-}
-.contacts-n:focus{
-    color: #404bbf;
-}
+
+
+
+
+
 
 .mailto {
     font-family: "Roboto", sans-serif;
