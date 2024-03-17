@@ -190,7 +190,7 @@ h2{
 .advant{
     background-color: #F4F4FD
 }
-.advant-h2{
+.advant-title{
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
@@ -199,7 +199,7 @@ h2{
     
         color: #2e2f42;
 }
-.advant-h3{
+.advant-title-h{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
