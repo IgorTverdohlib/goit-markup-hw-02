@@ -247,7 +247,7 @@ h2{
 .our-portfolio{
     background-color: #F4F4FD
 }
-.our-portfolio h2{
+.our-portfolio-title{
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
@@ -260,7 +260,7 @@ h2{
         
        
 }
-.aaa h3{
+.aaa-title{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -269,7 +269,7 @@ h2{
     
         color: #2e2f42;
 }
-.aaa p{
+.aaa-text{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
