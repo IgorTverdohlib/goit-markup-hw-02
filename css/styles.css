@@ -147,6 +147,9 @@ ul {
             text-align: center;
         color: #2e2f42;
 }
+.advant-title-n{
+    display: none;
+}
 .advant-title-h{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
